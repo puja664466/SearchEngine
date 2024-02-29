@@ -33,7 +33,7 @@ An effective tool for finding information and other stuff on the internet is a s
 
    * The information that the search engine will utilize to retrieve results is kept and managed by the database.
 
-**B**.**. A web application with a straightforward search bar and search button is part of the frontend design. The backend analyzes the search request when users input their queries and click the search button. Using a ranking algorithm, it retrieves the top 30 results based on the user's query. Users' search histories are also shown, enabling them to maintain a record of their prior searches.
+**B.** A web application with a straightforward search bar and search button is part of the frontend design. The backend analyzes the search request when users input their queries and click the search button. Using a ranking algorithm, it retrieves the top 30 results based on the user's query. Users' search histories are also shown, enabling them to maintain a record of their prior searches.
 
 **C.** The Search Engine will use a client-server architecture, in which requests are sent from the front end (client) to the back end (server), which responds with pertinent information. This relationship is analogous to a patron placing an order with a waiter at a restaurant, and the waiter sending the order to the kitchen (backend) for processing.
 
