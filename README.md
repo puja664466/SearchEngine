@@ -14,15 +14,20 @@ An effective tool for finding information and other stuff on the internet is a s
 Technology:
 
 • FrontEnd - HTML, CSS, JSP
+
 • BackEnd - Java Servlets
+
 • Database - MySQL
+
 • Others - IntelliJ IDEA, Maven Archtype, Tomcat Server, JDBC(ConnectorJ)
 
 Description:
 
 A. The front end, back end, and database are the main parts of our search engine project.
 • The user interface, which includes a search bar and search button for users to interact with the search engine, is handled by the frontend.
+
 • The server-side operations are managed by the backend, which also processes user requests and produces pertinent responses.
+
 • The information that the search engine will utilize to retrieve results is kept and managed by the database.
 
 B. A web application with a straightforward search bar and search button is part of the frontend design. The backend analyzes the search request when users input their queries and click the search button. Using a ranking algorithm, it retrieves the top 30 results based on the user's query. Users' search histories are also shown, enabling them to maintain a record of their prior searches.
