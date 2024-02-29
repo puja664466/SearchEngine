@@ -8,15 +8,18 @@ Contents of Table
 3.Description
 
 Introduction:
+
 An effective tool for finding information and other stuff on the internet is a search engine. With this project, we hope to learn more about the inner workings of a basic search engine by creating one from the ground up. To enable effective data retireival, the search engine will use Term Frequencies (TFs) in its indexer web crawling operation.
 
 Technology:
+
 FrontEnd - HTML, CSS, JSP
 BackEnd - Java Servlets
 Database - MySQL
 Others - IntelliJ IDEA, Maven Archtype, Tomcat Server, JDBC(ConnectorJ)
 
 Description:
+
 A. The front end, back end, and database are the main parts of our search engine project.
 The user interface, which includes a search bar and search button for users to interact with the search engine, is handled by the frontend.
 The server-side operations are managed by the backend, which also processes user requests and produces pertinent responses.
