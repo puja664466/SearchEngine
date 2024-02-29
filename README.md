@@ -14,8 +14,11 @@ An effective tool for finding information and other stuff on the internet is a s
 Technology:
 
 FrontEnd - HTML, CSS, JSP
+
 BackEnd - Java Servlets
+
 Database - MySQL
+
 Others - IntelliJ IDEA, Maven Archtype, Tomcat Server, JDBC(ConnectorJ)
 
 Description:
