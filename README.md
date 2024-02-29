@@ -41,4 +41,13 @@ An effective tool for finding information and other stuff on the internet is a s
 
 **E.** By designing the web application, implementing web crawlers, and configuring the database, we hope to build a productive search engine that can get pertinent search results in response to user queries and offer a smooth user experience.
 
+## Website Images
+
+Main Page:
+![Screenshot (654)](https://github.com/puja664466/SearchEngine/assets/96064811/0e7063b0-2f53-4f2c-9dc9-930544a3e021)
+
+Search Page:
+![Screenshot (655)](https://github.com/puja664466/SearchEngine/assets/96064811/013091a6-f590-470b-9900-f5aed5a8da5c)
+
+
 
