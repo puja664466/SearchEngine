@@ -1,4 +1,4 @@
-#Search Engine 
+# Explore - A Search Engine 🚀
 
 Greetings from a search engine website! Here, we retrieve information from websites and present it to the user. Additionally, we have the ability to display a user's search history on the search engine.
 
@@ -16,7 +16,7 @@ An effective tool for finding information and other stuff on the internet is a s
 
 ## Technology:
 
-   • FrontEnd - HTML, CSS, JSP
+   **C.**  FrontEnd - HTML, CSS, JSP
 
    • BackEnd - Java Servlets
 
