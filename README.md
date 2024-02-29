@@ -45,13 +45,10 @@ An effective tool for finding information and other stuff on the internet is a s
 
 Main Page:
 
-![1709141841553](image/README/1709141841553.png)
+![1709141841553]("C:\Users\Puja Kumari\OneDrive\Desktop\image 1.png")
 
 Search Page:
 
-![1709141875583](image/README/1709141875583.png)
+![1709141875583](C:\Users\Puja Kumari\OneDrive\Pictures\Screenshots\Screenshot (655).png)
 
-History Page:
-
-![1709141889398](image/README/1709141889398.png)
 
