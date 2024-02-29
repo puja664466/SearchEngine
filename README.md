@@ -16,7 +16,7 @@ Greetings from a search engine website! Here, we retrieve information from websi
 
 An effective tool for finding information and other stuff on the internet is a search engine. With this project, we hope to learn more about the inner workings of a basic search engine by creating one from the ground up. To enable effective data retireival, the search engine will use Term Frequencies (TFs) in its indexer web crawling operation.
 
-## Technology:
+## Technologies:
 
 * FrontEnd - HTML, CSS, JSP
 * BackEnd - Java Servlets
