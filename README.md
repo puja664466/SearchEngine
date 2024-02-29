@@ -3,8 +3,11 @@
 Greetings from a search engine website! Here, we retrieve information from websites and present it to the user. Additionally, we have the ability to display a user's search history on the search engine.
 
 ※ Contents of Table
+
   1.Introduction
+  
   2.Technology 
+  
   3.Description
 
 ※ Introduction:
