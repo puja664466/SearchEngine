@@ -41,6 +41,17 @@ An effective tool for finding information and other stuff on the internet is a s
 
 **E.** By designing the web application, implementing web crawlers, and configuring the database, we hope to build a productive search engine that can get pertinent search results in response to user queries and offer a smooth user experience.
 
+## Website Images
 
+Main Page:
 
+![1709141841553](image/README/1709141841553.png)
+
+Search Page:
+
+![1709141875583](image/README/1709141875583.png)
+
+History Page:
+
+![1709141889398](image/README/1709141889398.png)
 
